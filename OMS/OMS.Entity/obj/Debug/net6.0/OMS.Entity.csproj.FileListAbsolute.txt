@@ -1,0 +1,12 @@
+C:\Users\spa27\Downloads\OMS.Entity\bin\Debug\net6.0\OMS.Entity.deps.json
+C:\Users\spa27\Downloads\OMS.Entity\bin\Debug\net6.0\OMS.Entity.dll
+C:\Users\spa27\Downloads\OMS.Entity\bin\Debug\net6.0\OMS.Entity.pdb
+C:\Users\spa27\Downloads\OMS.Entity\obj\Debug\net6.0\OMS.Entity.csproj.AssemblyReference.cache
+C:\Users\spa27\Downloads\OMS.Entity\obj\Debug\net6.0\OMS.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spa27\Downloads\OMS.Entity\obj\Debug\net6.0\OMS.Entity.AssemblyInfoInputs.cache
+C:\Users\spa27\Downloads\OMS.Entity\obj\Debug\net6.0\OMS.Entity.AssemblyInfo.cs
+C:\Users\spa27\Downloads\OMS.Entity\obj\Debug\net6.0\OMS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\spa27\Downloads\OMS.Entity\obj\Debug\net6.0\OMS.Entity.dll
+C:\Users\spa27\Downloads\OMS.Entity\obj\Debug\net6.0\refint\OMS.Entity.dll
+C:\Users\spa27\Downloads\OMS.Entity\obj\Debug\net6.0\OMS.Entity.pdb
+C:\Users\spa27\Downloads\OMS.Entity\obj\Debug\net6.0\ref\OMS.Entity.dll
